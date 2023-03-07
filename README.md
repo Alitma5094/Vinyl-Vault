@@ -6,10 +6,6 @@
 
 An app for tracking your vinyl record collection.
 
-## Demo
-
-Insert gif or link to demo
-
 ## Features
 
 - Scan barcode to add info automatically
@@ -26,6 +22,12 @@ Install Vinyl Vault with npm
   npm install
   npm start
 ```
+
+## Screenshots
+
+<img src="./images/list_records.png" width="200">
+<img src="./images/add_record.png" width="200">
+<img src="./images/view_record.png" width="200">
 
 ## License
 
