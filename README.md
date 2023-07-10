@@ -1,4 +1,4 @@
-# Project Title
+# Vinyl Vault
 
 <a href="https://reactnative.dev/" target="_new"><img src="https://img.shields.io/badge/React%20Native-v0.70.2-blue.svg" alt="React Native"></a>
 
